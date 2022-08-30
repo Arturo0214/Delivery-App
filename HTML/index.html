@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mandaditos</title>
+    <link rel="stylesheet" href="CSS/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <link rel="stylesheet" href="https://cdn.materialdesignicons.com/6.2.95/css/materialdesignicons.min.css">
+</head>
+<body>
+    <nav class="navbar is-fixed-top has-shadow is-flex-touch is-justify-content-space-between" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+          <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="true" data-target="navbarBasicExample">
+            <span aria-hidden=""></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+          </a>  
+
+          <a>  
+            <img src="images/logo3.png" width="200" height="50">
+          </a>
+
+        </div>
+      
+        <div id="navbarBasicExample" class="navbar-menu is-flex">
+          <div class="navbar-start">
+            <a class="navbar-item">
+              <strong>Inicio</strong>
+            </a>
+      
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link">
+                    <strong>Ubicación</strong>
+                </a>
+        
+                <div class="navbar-dropdown">
+                  <a class="navbar-item">
+                   <strong>Pedernales</strong>
+                  </a>
+                  <a class="navbar-item">
+                    <strong>Tacámbaro</strong>
+                  </a>
+                  <a class="navbar-item">
+                    <strong>Puruarán</strong>
+                  </a>
+                  <hr class="navbar-divider">
+                  <a class="navbar-item">
+                    <strong>Reportar un problema</strong>
+                  </a>
+                </div>
+              </div>
+      
+            <div class="navbar-item has-dropdown is-hoverable">
+              <a class="navbar-link">
+                <strong>Más</strong>
+              </a>
+      
+              <div class="navbar-dropdown">
+                <a class="navbar-item">
+                  <strong>Acerca de nosotros</strong>
+                </a>
+                <a class="navbar-item">
+                    <strong>Empleo</strong>
+                </a>
+                <a class="navbar-item">
+                    <strong>Contacto</strong>
+                </a>
+                <hr class="navbar-divider">
+                <a class="navbar-item">
+                    <strong>Reportar un problema</strong>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="navbar-end is-flex-touch is-justify-content-space-between">
+            <div class="navbar-item">
+                <form class="field has-addons" id="busqueda">
+                    <div class="control">
+                        <input id="inputBusqueda" autocomplete="off" class="input is-rounded has-background-light" width="600" type="text" placeholder="Buscar...">
+                    </div>
+                    <div class="control">
+                        <button type="button" class="button is-rounded is-light">
+                            <span class="icon is-left">
+                                <i class="mdi mdi-magnify mdi-24px"></i>
+                            </span>
+                        </button>
+                    </div>
+                </form>
+            </div>
+          <div class="navbar-end">
+            <div class="navbar-item">
+              <div class="buttons">
+                <a class="button gradient is-rounded">
+                  <strong>Regístrate</strong>
+                </a>
+                <a class="button is-light is is-rounded">
+                  <strong>Inicia Sesión</strong> 
+                </a>
+              </div>
+            </div><div class="navbar-item">
+                <div class="buttons">
+                    <a class="button is-black is-rounded"><span class="icon is-medium"><i class="mdi mdi-cart"></i></span><b class="is-size-7">0</b></a>
+                </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <main>
+        <section class="section mt-6 pt-5 pb-0">
+            <div class="container mt-5">
+                <div class="categories mgt-large is-flex is-justify-content-space-between">
+                    <div class="box mr-2 mb-2 is-flex is-align-items-center is-flex-direction-column">
+                        <a href="#" id="todos" class="has-text-centered">
+                            <figure class="image">
+                                <img src="images/Todo.png">
+                            </figure>
+                            <strong>Todo</strong>
+                        </a>
+                    </div>
+                    <div class="box mr-2 mb-2 is-flex is-align-items-center is-flex-direction-column">
+                        <a href="#" id="restaurantes" class="has-text-centered">
+                            <figure class="image">
+                                <img src="images/restaurantes.png">
+                            </figure>
+                            <strong>Restaurantes</strong>
+                        </a>
+                    </div>
+                    <div class="box mr-2 mb-2 is-flex is-align-items-center is-flex-direction-column">
+                        <a href="#" id="fast-food" class="has-text-centered">
+                            <figure class="image">
+                                <img src="images/fastfood.png">
+                            </figure>
+                            <strong>Comida Rapida</strong>
+                        </a>
+                    </div>
+                    <div class="box mr-2 mb-2 is-flex is-align-items-center is-flex-direction-column">
+                        <a href="#" id="abarrotes" class="has-text-centered">
+                            <figure class="image">
+                                <img src="images/supermarket.png">
+                            </figure>
+                            <strong>Abarrotes</strong>
+                        </a>
+                    </div>
+                    <div class="box mr-2 mb-2 is-flex is-align-items-center is-flex-direction-column">
+                        <a href="#" id="mandaditos" class="has-text-centered">
+                            <figure class="image">
+                                <img src="images/mandadito.png">
+                            </figure>
+                            <strong>Mandaditos</strong>
+                        </a>
+                    </div>
+                    <div class="box mr-2 mb-2 is-flex is-align-items-center is-flex-direction-column">
+                        <a href="#" id="farmacia" class="has-text-centered">
+                            <figure class="image">
+                                <img src="images/farmacia.png">
+                            </figure>
+                            <strong>Farmacia</strong>
+                        </a>
+                    </div>
+                    <div class="box mr-2 mb-2 is-flex is-align-items-center is-flex-direction-column">
+                        <a href="#" id="calificacion" class="has-text-centered">
+                            <figure class="image">
+                                <img src="images/review.png">
+                            </figure>
+                            <strong>Calificacion</strong>
+                        </a>
+                    </div>
+                    <div class="box mr-2 mb-2 is-flex is-align-items-center is-flex-direction-column">
+                        <a href="#" id="alfabeto" class="has-text-centered">
+                            <figure class="image">
+                                <img src="images/a-z.png">
+                            </figure>
+                            <strong>A-Z</strong>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <br>
+        <section class="section mt-0 py-3">
+            <div class="container">
+            <h1 class="title mb-2 ">¿Qué mandadito quieres hoy?</h1>
+           <strong><p class="mb-5">Busca entre los diferentes locales y restaurantes lo que necesitas.</p></strong>
+            <div id="results" class="columns is-multiline">
+            </div>
+            <div id="modal" class="modal mi-clase-1 mi-clase-2">
+              <div class="modal-background" onclick="mostrarModal()"></div>
+              <div class="modal-content">
+                <div class="modal-box">
+                  <article class="media">
+                    <div class="media-content">
+                      <div class="content">
+                        <h3 id="restaurant-name"></h3>
+                        <p id="restaurant-address">
+                        <p id="restaurant-note"></p>
+                        <button 
+                        id="restaurant-add-favorites"
+                        
+                        class="button is-primary mb-2">Añadir a favoritos</button>
+                      </div>
+                    </div>
+                  </article>
+                  <figure class="image is-16by9">
+                    <img id="restaurant-image" class="is-block" src=""/>
+                  </figure>
+                </div>
+              </div>
+              <button class="modal-close is-large" aria-label="close" onclick="mostrarModal()"></button>
+            </div>
+        </div>
+    </main>
+    <footer class="barra-inferior">
+        <div class="row">
+            <p>
+                <strong>Mandaditos</strong> &copy; 2022 
+                <span class="mx-2">&middot;</span>
+                <p>Aviso de privacidad</p>
+                <span class="mx-2">&middot;</span>
+                <p>Términos y condiciones</p>
+               
+        </div>
+        <div class="bot-derecha is-fixed-bottom">
+            <div class="mundito">    
+                <img src="https://cdn-icons-png.flaticon.com/512/1246/1246334.png" style="width: 20px;">
+            </div>
+            <span class="mx-2">&middot;</span>
+            <div class="mx">
+                <p>Español (MX)</p>
+            </div>
+            <span class="mx-2">&middot;</span>
+            <div class="mxn">
+                <p>$ MXN</p>
+            </div>
+            <span class="mx-2">&middot;</span>
+            <div class="ayuda">
+                <p>Ayuda</p>
+            </div>
+            </p>
+            <span class="mx-2">&middot;</span> Todos los derechos reservados
+            </p>
+        </div>
+        
+    </footer>
+
+
+    <script defer src="js/app.js"></script>
+    <script defer src="js/filters.js"></script>
+</body>
+</html>
