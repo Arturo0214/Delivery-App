@@ -51,7 +51,7 @@ let render = (restaurantsArr) => {
 };
 
 const llenarModal = (restaurante) => {
-    const {name, ubicacion, image} = restaurante.data;
+    const {name, ubicacion, image} = restaurante;
     rName.innerText = name;
     rAddress.innerText = ubicacion;
     rImage.setAttribute("src", image);
@@ -62,15 +62,16 @@ const mostrarModal = (id) => {
     rAddress.innerText = "";
     btnFavorites.setAttribute("id", id);
     modal.classList.toggle("is-active");
-    if (id !== undefined) {
-      fetch("js/restaurantes.json${id}")
-        .then((response) => response.json())
-        .then((data) => {
-           console.log(data)
-        });
-    }
-  };
+    let restauranteI = buscarId(id);
+    llenarModal(restauranteI);
+};
 
+let buscarId =  (aidi) => {
+    let filtro = restaurantes.filter((restaurante) => {
+        return restaurante.id == aidi;
+    });
+    return(filtro[0]);
+};
 
 fetch("js/restaurantes.json")
 .then(response => response.json())

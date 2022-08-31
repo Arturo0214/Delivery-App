@@ -13,7 +13,7 @@
        }],
        "image":"https://imagenes.elpais.com/resizer/hAha099uGI7HWlJh9iunniCJ07Q=/1960x1470/cloudfront-eu-central-1.images.arcpublishing.com/prisa/2MRLAMWNLJE3TBYELF4EGKKREQ.jpg",
        "note":"Una tienda de abarrotes dedicada a la excelencia",
-       "calificacion": "5.0"
+       "calificacion": 5.0
     },
     {
       "id":"01",
@@ -29,7 +29,7 @@
       }],
       "image":"https://scontent.fmex31-1.fna.fbcdn.net/v/t39.30808-6/271745983_989807838292658_7991354535717989568_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEe-QZmyw1kRSYwHoipXvGBvm-KO82W0ua-b4o7zZbS5qs1d-zrUjPV_K2SyNeGAe706qmYtXHyDOcfJt9naFm0&_nc_ohc=AfQOSUzzcYkAX-f0_r_&_nc_ht=scontent.fmex31-1.fna&oh=00_AT-sR90VEbdglB3-iF5w8LH9RGednPSDA6-GC2PCCLOYPA&oe=63124E84",
       "note":"Super Ponce tiene todo lo que necesitas",
-      "calificacion": "4.6"
+      "calificacion": 4.6
     },
     {
       "id":"02",
@@ -43,7 +43,7 @@
       }],
       "image":"https://previews.123rf.com/images/aruba2000/aruba20001604/aruba2000160400253/55306041-tres-crujiente-y-sabrosa-barbacoa-de-pollo-asado-quarters-en-el-hot-de-carb%C3%B3n-flaming-grill-primer-p.jpg?fj=1",
       "note":"De la parrilla a tu casa",
-      "calificacion": "4.5"
+      "calificacion": 4.5
     },
     {
       "id":"03",
@@ -59,7 +59,7 @@
       }],
       "image":"https://www.elsoldesanluis.com.mx/incoming/lebi1i-tienda-abarrotes-negocios-.jpg/ALTERNATES/LANDSCAPE_960/tienda%20abarrotes%20negocios%20.JPG",
       "note":"Lo buscas, lo encuentras",
-      "calificacion":"4.3"
+      "calificacion": 4.3
     },
     {
       "id":"04",
@@ -73,7 +73,7 @@
       }],
       "image":"https://static.educalingo.com/img/es/800/marisco.jpg",
       "note":"Conquistara tu paladar",
-      "calificacion": "4.6"
+      "calificacion": 4.6
     },
     {
       "id":"05",
@@ -86,7 +86,7 @@
        }],
        "image":"https://10619-2.s.cdn12.com/rests/original/102_511450838.jpg",
        "note":"Dejate llevar por el rico sabor de las famosas Bolas Doña Bruna",
-       "calificacion": "4.5"
+       "calificacion": 4.5
     },
     {
       "id":"06",
@@ -102,7 +102,7 @@
       }],
       "image":"data:image/jpeg;base64,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",
       "note":"Tu cervecita al alcance de tu mano",
-      "calificacion": "4.8"
+      "calificacion": 4.8
     },
     {
       "id":"07",
@@ -118,7 +118,7 @@
       }],
       "image":"https://10619-2.s.cdn12.com/rests/original/311_506928116.jpg",
       "note":"Comida deliciosa que no podras olvidar",
-      "calificacion": "4.9"
+      "calificacion": 4.9
     },
     {
       "id":"08",
@@ -128,7 +128,7 @@
        "menu": "comida corrida",
        "image":"https://media-cdn.tripadvisor.com/media/photo-s/1b/fa/df/08/salon-principal.jpg",
        "note":"Una tienda de abarrotes dedicada a la excelencia",
-       "calificacion": "4.2"
+       "calificacion": 4.2
     },
     {
       "id":"09",
@@ -138,7 +138,7 @@
       "menu": "hamburguesas",
       "image":"https://okdiario.com/img/2021/05/28/hamburguesa-gourmet-655x368.jpg",
       "note":"Hamburguesas Sabrosas",
-      "calificacion": "4.8"
+      "calificacion": 4.8
     },
     {
       "id":"10",
@@ -154,7 +154,7 @@
       }],
       "image":"https://mafivaz.com.mx/wp-content/uploads/2021/08/abarrotes-min.png",
       "note":"Una tienda de abarrotes dedicada a la excelencia",
-      "calificacion": "4.4"
+      "calificacion": 4.4
     },
     {
       "id":"11",
@@ -168,7 +168,7 @@
        }],
        "image":"https://www.buscatan.com/uploads/anuncios/3013/logotipo-tortilleria-bey.jpeg",
        "note":"Una tienda de abarrotes dedicada a la excelencia",
-       "calificacion": "4.5"
+       "calificacion": 4.5
     },
     {
       "id":"12",
@@ -184,7 +184,7 @@
       }],
       "image":"https://tecnyfarma.com/wp-content/uploads/2022/03/018_200122_30_0085-HDR-Editar-scaled-1-1.jpg",
       "note":"Una tienda de abarrotes dedicada a la excelencia",
-      "calificacion": "4.0"
+      "calificacion": 4
     },
     {
       "id":"13",
@@ -200,7 +200,7 @@
       }],
       "image":"https://www.citymarket.com.mx/images/tortilleria.jpg",
       "note":"Una tienda de abarrotes dedicada a la excelencia",
-      "calificacion": "4.7"
+      "calificacion": 5
     },
     {
       "id":"14",
@@ -216,7 +216,7 @@
       }],
       "image":"https://www.eluniversalqueretaro.mx/sites/default/files/2019/05/06/tortillerias_pag_5.jpg",
       "note":"Una tienda de abarrotes dedicada a la excelencia",
-      "calificacion": "5.0"
+      "calificacion": 5
     },
     {
       "id":"15",
@@ -232,7 +232,7 @@
       }],
       "image":"https://imageio.forbes.com/specials-images/imageserve/1141999659/0x0.jpg?format=jpg&width=1200",
       "note":"Una tienda de abarrotes dedicada a la excelencia",
-      "calificacion": "5.0"
+      "calificacion": 5
     },
     {
       "id":"16",
@@ -248,7 +248,7 @@
        }],
        "image":"https://4.bp.blogspot.com/-Eoh1GDDwNZA/W8hsNGh-xqI/AAAAAAAABuQ/at7xAvsvIO0doCRoY7sO3kIwolXVbHk-wCLcBGAs/s1600/PAPELERIA-ONLINE.jpg",
        "note":"Una tienda de abarrotes dedicada a la excelencia",
-       "calificacion": "5.0"
+       "calificacion": 5
     },
     {
       "id":"17",
@@ -264,7 +264,7 @@
        }],
        "image":"https://pqs.pe/wp-content/uploads/2016/09/pqs-ideas-negocios-pizza-800x425.jpg",
        "note":"Una tienda de abarrotes dedicada a la excelencia",
-       "calificacion": "5.0"
+       "calificacion": 5
     },
     {
       "id":"18",
@@ -278,7 +278,7 @@
       }],
       "image":"https://pbs.twimg.com/media/E-xMUM5X0AcFIcz.jpg",
       "note":"Las mejores del pueblo",
-      "calificacion": "4.7"
+      "calificacion": 4.7
     },
     {
       "id":"19",
@@ -294,7 +294,7 @@
       }],
       "image":"https://thumbs.dreamstime.com/z/tienda-del-caramelo-y-especialidades-locales-44733178.jpg",
       "note":"La garnacha que apapacha",
-      "calificacion": "5.0"
+      "calificacion": 5
     },
     {
       "id":"20",
@@ -309,7 +309,7 @@
        }],
        "image":"https://cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/DIT4THBXQZEGBN23FSNM4D4QFY.png",
        "note":"Las mejores paletas de changunga",
-       "calificacion": "4.5"
+       "calificacion": 4.5
     },
     {
       "id":"21",
@@ -320,7 +320,7 @@
        }],
        "image":"https://i.pinimg.com/originals/25/8f/a2/258fa2c46ae1f845b9ef77da55d747f0.jpg",
        "note":"Buscas los mejores tacos al vapor?",
-       "calificacion": "5.0"
+       "calificacion": 5
     },
     {
       "id":"22",
@@ -336,7 +336,7 @@
       }],
       "image":"https://img.europapress.es/fotoweb/fotonoticia_20220329074050_420.jpg",
       "note":"Una tienda de abarrotes dedicada a la excelencia",
-      "calificacion": "4.7"
+      "calificacion": 4.7
     },
     {
       "id":"23",
@@ -352,7 +352,7 @@
        }],
        "image":"https://saboryestilo.com.mx/wp-content/uploads/2020/08/Vino-Definicion.jpg",
        "note":"Una tienda de abarrotes dedicada a la excelencia",
-       "calificacion": "5.0"
+       "calificacion": 5
     },
     {
       "id":"24",
@@ -366,7 +366,7 @@
       }],
       "image":"https://www.culinariamexicana.com.mx/wp-content/uploads/2021/03/tacos-tipicos-scaled.jpg",
       "note":"Tacos que llegan al alma",
-      "calificacion": "4.7"
+      "calificacion": 4.7
     },
     {
       "id":"25",
@@ -380,7 +380,7 @@
       }],
       "image":"https://tacos10.com/wp-content/uploads/2019/01/Tacos-de-cabeza-de-res.jpg",
       "note":"Una tienda de abarrotes dedicada a la excelencia",
-      "calificacion": "3.7"
+      "calificacion": 3.7
     },
     {
       "id":"26",
@@ -394,7 +394,7 @@
        }],
        "image":"https://dam.cocinafacil.com.mx/wp-content/uploads/2019/02/tacos-carnitas-mas-saludables.png",
        "note":"Ni Tacambaro nos iguala",
-       "calificacion": "4.6"
+       "calificacion": 4.6
     },
     {
       "id":"27",
@@ -408,7 +408,7 @@
        }],
        "image":"https://foodandtravel.mx/wp-content/uploads/2021/05/Hamburguesas.jpg",
        "note":"Mmmm Hamburguesas",
-       "calificacion": "5.0"
+       "calificacion": 5
     },
     {
       "id":"28",
@@ -424,7 +424,7 @@
        }],
        "image":"https://img77.uenicdn.com/image/upload/v1567551501/business/afa-comercializadora/dd8307c2-46a0-4998-95ce-1c31df17ce64.jpg",
        "note":"Tlapaleria al alcance de tu mano",
-       "calificacion": "4.8"
+       "calificacion": 4.8
     },
     {
       "id":"29",
@@ -436,7 +436,7 @@
        }],
        "image":"https://www.vvsupremo.com/wp-content/uploads/2015/10/900X570_Enchiladas-Morelia-Style-With-Chorizo-And-Potatoes.jpg",
        "note":"Una tienda de abarrotes dedicada a la excelencia",
-       "calificacion": "5.0"
+       "calificacion": 5
     },
     {
       "id":"30",
@@ -452,7 +452,7 @@
        }],
        "image":"https://lavoz.blob.core.windows.net.optimalcdn.com/images/2021/04/17/6166_1230564209.jpg",
        "note":"Una chevechita?",
-       "calificacion": "5.0"
+       "calificacion": 5
     },
     {
       "id":"31",
@@ -466,7 +466,7 @@
       }],
       "image":"https://pr1.nicelocal.com.mx/f3zUrZ6FmhfJYCw2ubV-bA/587x440,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2Qj6Q5gJ_GHAu6Ggot54A1T2rFZUbN7VsbqYYlWMQC00AGy59NcAlJ4qzs4fxPXPqQ",
       "note":"La mejor de Pedernales",
-      "calificacion": "4.8"
+      "calificacion": 4.8
     },
     {
       "id":"32",
@@ -480,7 +480,7 @@
       }],
       "image":"https://i0.wp.com/goula.lat/wp-content/uploads/2020/06/cafe%CC%81-.jpg?fit=1000%2C841&ssl=1",
       "note":"La mejor en Pedernales",
-      "calificacion": "5.0"
+      "calificacion": 5
     },
     {
       "id":"33",
@@ -494,7 +494,7 @@
       }],
       "image":"https://www.consumoteca.com/wp-content/uploads/Cajero-autom%C3%A1tico-banco.png",
       "note":"A un solo click",
-      "calificacion": "5.0"
+      "calificacion": 5
     }
 
 ]

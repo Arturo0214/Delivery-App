@@ -8,7 +8,7 @@ let buscar = () => {
 
 let reviews = () =>{
     let filtro = restaurantes.filter((restaurante) => {
-      return restaurante.calificacion >= 2;
+      return restaurante.calificacion >= 5.1;
     });
     render(filtro);
 };
